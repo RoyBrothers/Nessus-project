@@ -1,4 +1,4 @@
-# NESSUS-PROJECT
+# NESSUS-HOME-LAB
 # NESSUS-HOME-LAB-PROJECT 
 # Nessus scanning and exploit the vulnerability using Metasploit 
 
